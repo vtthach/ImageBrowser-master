@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\d79bcaf5d603ca0873f497fd3e171dfeefee7745\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ab3a1b3e67f31a16eb12bf1310eb5ddc2f1f711\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\4a9fab5fcf86b0d3f7e021240b9432cb13779ba7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a42662d0e74527d5ec6825cd95b838ea36be7d5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_4bc61182432391f450d8ce794e8e7f2944e65626\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.4.0_c990d27ccb70b1f566b664253b182fe68d27abee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\5b2573951cfb70340082b90a323cbeb81807e6a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7506151debe7eac3f0e2a69ef825a082f2cec23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_4bc61182432391f450d8ce794e8e7f2944e65626\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\1ff6aabf14c2a72c882900d4153d944d3f558d21\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94879e9dd3d5147a9447cbae79707b934a8046eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\bfcf75111b73243769255ed24a576ba3ef4dee9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd2a0b500777b3239ff9b86aa095528f729f9f79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_47631c8564361e4c9a7654479c1428f904d86547\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\c8936c60972f98f00e3eaeb0e6de4a692da0e062\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5db7267e0b9ec35bb5f8c5e5dcce85b9abac294\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_948c776c800391091584c942d5ac43dd0389705d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\862e1ffb0c8b6f50d0681a16a928718e9d632375\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc77413ea022c527ea179cf04eae45cc58e930a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1079eddde1e060fadf52c88e72258dcc9058f9a3">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e0e237688649231c21edd91546dcb5eee9f95a29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\75f221134c567f2d7ebcb99518e308197f987c5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20d7128e4f7a26fb5cfb3257cb15f9d068273dce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\ea5457674d817cec165966e39805fa866d73927a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4f55ac1c7aac1acb1c588e4c36571df7408244d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\fb61b47da21e66cd2de794e5e3ff6bdd64800119\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cdbcde51fdb4d97d14c9a2e7f19045c6d51d9fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_47631c8564361e4c9a7654479c1428f904d86547\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0-RC1\1b4bba8f8d3df8db064c875c043c01e9ca3cdee9\disklrucache-4.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b4bba8f8d3df8db064c875c043c01e9ca3cdee9">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\disklrucache-4.0.0-RC1_daecd04420a0f9c1d74ee3e72b997424c2998079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0-RC1\84c524dcd1a3088edd5560a8ac176eae1317f770\annotations-4.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84c524dcd1a3088edd5560a8ac176eae1317f770">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-4.0.0-RC1_171f492c2ebae6b74d87cef83138f949f803e0a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\c365386fc94084e522d4e1dbe7a94f6c3c0182dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3a869fc78c811ac0c118884503b9e6675ee9ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0-RC1\c425e31eda1069f978a0e823ad50e567ab422656\gifdecoder-4.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c425e31eda1069f978a0e823ad50e567ab422656">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gifdecoder-4.0.0-RC1_6282ce9046b9d515c6b5115d13642eb3399a9615\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_948c776c800391091584c942d5ac43dd0389705d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3222acf377b8ad71956a3c2152c550ac57f13ee">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e0e237688649231c21edd91546dcb5eee9f95a29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\7cd88a493cbe90eaa51b86715f88eb4f1133bd3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2476a8218ffe36e3b457b2047c56737db089c676\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0-RC1\7baec7d5132e7343100a99630a56a6584a33addc\glide-4.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7baec7d5132e7343100a99630a56a6584a33addc">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-4.0.0-RC1_6e68818fe8d08a4ca072c1a9f07333ef7988bc1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\862e1ffb0c8b6f50d0681a16a928718e9d632375\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc77413ea022c527ea179cf04eae45cc58e930a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ThachVo\.android\build-cache\b6aa3b2177909a2fdedf109e1d197826536fd4dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="I:\Project\Z_Sample\ImageBrowser-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f20a4720dc4e000888601b4d03ff067e27e7ae5\classes.dex" />
+    </item>
+
+</items>
